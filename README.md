@@ -19,12 +19,11 @@ Deep Learning is currently enabling numerous exciting applications in speech rec
 <LI>Use intelligent automation to avoid errors and save the time normally spent fixing them </LI></UL></DIV>
 
 ## Instructions and Navigation
-### Assumed Knowledge
-To fully benefit from the coverage included in this course, you will need:<br/>
+### Assumed Knowledge<br/>
 If you're a Python developer writing any kind of Python app/script, this course will get you working with Deep Learning in Python in no time.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Minimum Hardware Requirements
+<b>Minimum Hardware Requirements<br/></b>
 For successful completion of this course, students will require the computer systems with at least the following:
 
 ·         OS: MacOS, Linux OS (Ubuntu LTS 16). For windows users, VM running Linux will be OK
@@ -35,7 +34,7 @@ For successful completion of this course, students will require the computer sys
 
 ·         Storage: 128 GB storage
 
-Recommended Hardware Requirements
+<b>Recommended Hardware Requirements<br/></b>
 For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
 
 ·         OS: Ubuntu 16 LTS, MacOS (El Capitan), Windows 10 with VirtualBox running Linux VM
@@ -46,7 +45,7 @@ For an optimal experience with hands-on labs and other practical activities, we 
 
 ·         Storage: 256 GB Storage
 
-Software Requirements
+<b>Software Requirements<br/></b>
 
 Tensorflow, MxNet, Keras and Gluon
 
