@@ -22,7 +22,7 @@ Deep Learning is currently enabling numerous exciting applications in speech rec
 ### Assumed Knowledge<br/>
 If you're a Python developer writing any kind of Python app/script, this course will get you working with Deep Learning in Python in no time.
 ### Technical Requirements
-This course has the following software requirements:<br/>
+This course has the following requirements:<br/>
 <b>Minimum Hardware Requirements<br/></b>
 For successful completion of this course, students will require the computer systems with at least the following:
 
